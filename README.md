@@ -4,9 +4,10 @@ Supporting Data for "Systematic Comparison of Experimental Crystallographic Geom
 
 by Dakota Folmsbee (@dlf57) David Koes (@dkoes) and Geoffrey Hutchison (@ghutchis)
 
-This repository includes over 2.5GB of archived CREST output in `.tar.bz2` files.
+All CREST / GFN2 low-energy conformations (over 2.5GB of compressed `.tar.bz2` files) are available through Figshare:
+https://doi.org/10.6084/m9.figshare.21395061.v1
 
-Uncompressed, this data can occupy over 20GB of disk space.
+Uncompressed, this data can occupy over 20GB of disk space. GitHub does not permit large files.
 
 ## tldr: Use qtdg.ipynb and qtdg.txt to sample torsions
 
